@@ -3,8 +3,8 @@
 This technological support has several instruments that allow the assessment of computational thinking in elementary school by means of questions with likert scale answers.
 
 ## Authors
-- @AdversarialSeal 
-- @tatiana1902
+- [@Kevin Valencia](https://github.com/AdversarialSeal) 
+- [@Tatiana Mora](https://github.com/tatiana1902)
 
 ## Requeriments
 - PHP v8 or later
