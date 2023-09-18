@@ -10,7 +10,7 @@ This technological support has several instruments that allow the assessment of 
 - PHP v8 or later
 - MySql v8 or later
 - XAMPP V8.2 or later
-- Sql interface, recommended DBeaver v23.2.0 
+- Sql interface, recommended phpmyadmin 
 
 ## To be able to run locally
 
